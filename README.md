@@ -6,3 +6,9 @@ I wanted to buy a Fatar Keyboard TP8O (which is what is used for example on Nord
 Another interesting aspect of the project is that the design will be usable as a MIDI master keyboard: it has lots of inputs (potentiometers, buttons, ..) and will even feature a 4x4 button pad (from Sparkfun) usable as a drum pad.
 
 ![image](https://user-images.githubusercontent.com/67337957/120108813-0b481e00-c167-11eb-970a-776aaab56b44.png)
+
+The case of the keyboard will be made using 3D printed PLA (for the façade) and wood for the structure.
+
+Currently most of the hardware was ordered but the keyboard TP8O is yet to be received. The PCBs are almost done (final checks).
+Most of the work remaining will be assembling the PCBs, coding the 3 Arduino boards, and designing the 3D façade.
+
