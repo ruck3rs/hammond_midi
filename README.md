@@ -6,4 +6,4 @@ I wanted to buy a Fatar Keyboard TP8O (which is what is used for example on Nord
 Another interesting aspect of the project is that the design will be usable as a MIDI master keyboard: it has lots of inputs (potentiometers, buttons, ..) and will even feature a 4x4 button pad (from Sparkfun) usable as a drum pad.
 
 
-![image](https://user-images.githubusercontent.com/67337957/120108748-da67e900-c166-11eb-926f-255412e8b2c5.png)
+![image](https://user-images.githubusercontent.com/67337957/120108765-e94e9b80-c166-11eb-9233-597f8db69e20.png)
